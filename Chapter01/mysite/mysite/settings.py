@@ -27,7 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
-
+CSRF_TRUSTED_ORIGINS = ['https://shukurdev-miniature-trout-7x4qqx779xxfrgvp-8000.preview.app.github.dev']
 # Application definition
 
 INSTALLED_APPS = [
